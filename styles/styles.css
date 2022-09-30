@@ -49,6 +49,14 @@ body {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
+    color: #595959;
+    width: 500px;
+}
+
+.about_course_description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
     line-height: 24px;
     color: #595959;
     width: 500px;
